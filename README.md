@@ -28,7 +28,8 @@ This is testimonials module where passenger can post feedback after the journey 
 
 # API reference
 - Foursquare api<br>
-- Placec api
+- Places api<br>
+- Weather api
 
 # How to use
 - Step 1<br>
